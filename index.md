@@ -1,4 +1,5 @@
-PRIVACY POLICY
+                                                               PRIVACY POLICY
+
 This privacy policy governs your use of the software application CoralSrv (“Application”) for mobile devices that was created by TDPL. The Application is App from Coral Clinical Systems to provide better after Sales Service & Support to Customer 
 
  
@@ -58,9 +59,6 @@ Security
 We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
  
-
- 
-
 Your Consent
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the India. If you reside outside the India your information will be transferred, processed and stored there under India privacy standards. 
 
